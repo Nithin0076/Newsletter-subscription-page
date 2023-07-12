@@ -3,15 +3,13 @@
   }
   
   body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    margin: 20% 25%;
     background-color: hsl(235, 18%, 26%);
   }
   
   .container {
-    margin: 19% 0%;
     width: 870px;
     background-color: hsl(0, 0%, 100%);
     display: flex;
